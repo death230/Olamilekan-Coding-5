@@ -191,7 +191,6 @@ position: relative;
 }
   
   .ot {
-  
   color: #d6d6d6;
   font-size: 25pxx;
    left: 30px;
@@ -201,12 +200,10 @@ position: relative;
   }
   
   .to {
-  font-size: 15px;
-  font-weight:bolder;
+  font-size:14px;
   color: lightgreen;
   margin: 40px 2px;
   font-family: sans-serif;
-  letter-spacing: 0.4px;
   }
   
   .topo { 
