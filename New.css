@@ -364,20 +364,19 @@ font-family:Courier new,monospace;
 }
 
 .io {
-font-size: 18px;
+font-size: 17px;
 font-family:monospace;
 }
 
 .am {
   top: 10px;
 color: grey;
-left: 20px;
 text-decoration: none;
   position: relative;
 letter-spacing: 0.4px;
 }
 
 ul {
-font-size: 20px;
+font-size: 17px;
 color: blue;
 }
