@@ -222,10 +222,6 @@ position: relative;
   white-space: nowrap; 
   } 
  
- html {
- scroll-behavior: smooth;
- }
- 
  .haha {
  position: relative;
  top: 3cm;
@@ -373,10 +369,12 @@ font-family:monospace;
 }
 
 .am {
+  top: 10px;
 color: grey;
-left: 30px;
+left: 20px;
 text-decoration: none;
-letter-spacing: 1px;
+  position: relative;
+letter-spacing: 0.4px;
 }
 
 ul {
