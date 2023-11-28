@@ -108,7 +108,7 @@ position: relative;
 
 @media (max-width: 950px) {
   .container2 {
-    width: 88%;
+    width: 84%;
     padding: 30px 40px 40px 35px;
   }
   .container2 .content .right-side {
