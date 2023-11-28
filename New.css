@@ -4,7 +4,6 @@ background-color:white;
 
 /*navbar*/
 .topnav {
-  top: 0;
   width: 100%;
   left: -5px;
   overflow: hidden;
@@ -124,7 +123,7 @@ width: 60%;
 .form button {
  float: left;
  color: #0ea5ea;
- font-size: 17px;
+ font-size: 18px;
  border: none;
  cursor: pointer;
  font-weight: 600;
@@ -153,7 +152,7 @@ color: blue;
   .oem .ime {
    top: -22px;
   float: right;
-  width: 250px;
+  width: 240px;
   position: relative;
   transition: all 0.3s ease 0s;
   }
@@ -194,7 +193,7 @@ position: relative;
   .ot {
   
   color: #d6d6d6;
-  font-size: 28px;
+  font-size: 25pxx;
    left: 30px;
   letter-spacing: 3px;
   font-family:fantasy;
@@ -205,9 +204,9 @@ position: relative;
   
   font-weight:bolder;
   color: lightgreen;
-  margin: 40px 4px;
+  margin: 40px 2px;
   font-family: sans-serif;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.4px;
   }
   
   .topo { 
