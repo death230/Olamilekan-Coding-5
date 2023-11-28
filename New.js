@@ -192,3 +192,4 @@ function showTime() {
 			message => alert(message)
 			);
 			})
+alert('ok means it has send in the contact section and created means you have logging successfully')
