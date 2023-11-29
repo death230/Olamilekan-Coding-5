@@ -238,6 +238,8 @@ position: relative;
  }
 
 .Kate {
+  top: 6cm;
+position: relative;
 color: #03e9f4;
 font-size: 28px;
 font-family:Courier new,monospace;
