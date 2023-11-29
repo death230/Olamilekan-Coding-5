@@ -297,7 +297,7 @@ position: relative;
 footer {
 padding: 20px;
 color: white;
-top: 150px;
+top: 200px;
 position: relative;
 color: #0099ff;
 text-align: center;
@@ -308,9 +308,15 @@ font-family:Tahoma,Arial,sans-serif;
 }
 
 .key, .are{
-top: 4cm;
+top: 6cm;
 position: relative;
 }
+
+.zxz{
+top: 6cm;
+position: relative;
+}
+
 
 .cock {
 top: 45px;
