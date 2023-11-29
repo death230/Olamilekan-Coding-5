@@ -23,6 +23,10 @@ background-color:white;
   font-size: 17px;
 }
 
+html {
+ scroll-behavior: smooth;
+}
+
 .topnav a.icon {
   float: right;
 }
