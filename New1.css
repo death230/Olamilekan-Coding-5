@@ -297,7 +297,7 @@ position: relative;
 footer {
 padding: 20px;
 color: white;
-top: 133.5px;
+top: 150px;
 position: relative;
 color: #0099ff;
 text-align: center;
@@ -307,8 +307,8 @@ letter-spacing: 3px;
 font-family:Tahoma,Arial,sans-serif;
 }
 
-.zxz, .key, .are{
-top: 3cm;
+.key, .are{
+top: 4cm;
 position: relative;
 }
 
