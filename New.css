@@ -4,7 +4,7 @@ background-color:white;
 
 /*navbar*/
 .topnav {
-  width: 100%;
+  width: 95%;
   left: -5px;
   overflow: hidden;
   background: transparent;
@@ -227,13 +227,6 @@ position: relative;
  top: 3cm;
  }
  
- .yo {
- font-size: 18px;
- font-family:Courier new,monospace;
- letter-spacing: 1px;
- text-decoration: none;
- }
- 
  .ate {
  top: 70px;
  position: relative;
@@ -243,44 +236,6 @@ position: relative;
  font-family: Tahoma,Arial,sans-serif;
  
  }
- 
-.adde {
-margin: 140px 20px;
-position: relative;
-}
-
-.adee {
-top: -290px;
-float: right;
-position: relative;
-}
-
-.deed, .ddt, .ddf, .ddy, .dro, .drd{
-  font-size: 12px;
-color: #e74c3c;
-}
-
-.adue {
-margin: -100px 20px;
-position: relative;
-}
-
-.adge {
-float: right;
-margin: -140px -250px;
-position: relative;
-}
-
-.ade1 {
-margin: 150px 18px;
-position: relative;
-}
-
-.ade2 {
-float: right;
-margin: -385px 0;
-position: relative;
-}
 
 .Kate {
 color: #03e9f4;
